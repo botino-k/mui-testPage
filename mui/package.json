@@ -1,7 +1,7 @@
 {
   "name": "mui",
   "private": true,
-  "homepage": "https://botino-k.github.io/mui-testPage/",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
